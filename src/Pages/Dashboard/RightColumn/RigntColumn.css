@@ -1,0 +1,15 @@
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600; 
+}
+
+.OrderDetails{
+    background-color: #5F3ECB;
+    
+}
+.OrderDetails ul li{
+    color: white;
+    list-style: none;
+    border-right: 2px solid gray;
+    
+}

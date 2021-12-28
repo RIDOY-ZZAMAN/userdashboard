@@ -1,0 +1,23 @@
+.navbarBackground{
+    background-color: #FFFFFF;
+}
+.headerUser{
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    
+}
+
+
+.cirular{
+    background: #F6F8FD;
+    width: 29px;
+    height: 29px;
+    border-radius: 50%;
+  
+}
+
+
+.rightColumn{
+    background-color: #F3F6FD;
+}
+
